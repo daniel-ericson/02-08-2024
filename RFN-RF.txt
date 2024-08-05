@@ -1,0 +1,72 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                              -                                Requisitos Funcionais (Análise da Turma)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Ícone do YouTube na esquerda em cima vai pro início (Jefferson);
+*Banner de anúncio parte central de cima da página que vai levar para o site ou vídeo do anunciante (Rafael);
+*Thumbnail dos vídeos que vai te levar ao vídeo que for clicado (Alfredo);
+*Quando passar o mouse em cima de uma thumbnail vai dar "play" (preview) sem áudio no vídeo (André);
+*Quando estiver em época de jogos olímpicos, mostrar o filtro "Jogos Olímpicos" (Lucas);
+*Ao clicar no título do canal será redirecionado para o canal e não para o vídeo (Yuri);
+*Quando clicar no terceiro menu lateral esquerdo: "Inscrições", será redirecionado para os canais que você está inscrito, se você estiver logado (Miguel);
+*A barra de pesquisa vai direcionar para os resultados da pesquisa do texto digitado (Vinícius);
+*Na aba (menu lateral esquerdo) "Você" tem o histórico de vídeos que foi assistido, quando logado (Samuel);
+*Os três pontinhos de cada vídeo que vai mostrar mais opções (Maria);
+*O botão shorts (menu lateral esquerdo) da esquerda vai redirecionar para uma página de apenas vídeos curtos, que muda o layout de visualização do site/app, logado ou não (Wagner);
+*Dentro do ícone pesquisar, quando clicar no ícone do teclado, aparecerá um teclado virtual no canto inferior direito da página (Renato);
+*O botão "Início" (primeiro menu lateral esquerdo) que vai iniciar a página (Mariele);
+*A setinha ">" ao lado direito no menu de filtros da barra de navegação, que aparece outras opções de navegação (Murilo);
+*No ícone das três linhas no canto superior esquerdo, quando clicado, expande a barra lateral, logado ou não (Daniel);
+*A amostragem da barra de rolagem quando passa o mouse sobre o menu à esquerda (Ana);
+*O microfone quando clicado, vai pedir permissão para usar o microfone no primeiro uso (Marcelo);
+*A lupa na barra de pesquisa, quando clicada, vai buscar pelo texto digitado (Jaqueline);
+*O ícone de câmera, ao clicar aparece três opções (Alexksandro);
+*Campo de busca para pesquisar vídeos;
+*Botões de filtro para categorias como Tudo, Música, Notícias, Mixes, Canto Gregoriano, Ao Vivo, Jogos, Santos, Jogos Olímpicos, Física, Teorias, História, Programação de Computadores, Cálculo, Fisiculturismo;
+*Ícone de notificações para alertas de novos conteúdos;
+*Ícone de perfil do usuário para acessar configurações da conta;
+*Apresenta uma lista de vídeos recomendados com título, canal, visualizações e tempo de publicação;
+*Lista de canais inscritos do usuário na lateral esquerda;
+*Seção com notícias recentes.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                              Requisitos Não Funcionais (Análise da Turma)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Ícone de início - tamanho da casinha (Alexksandro);
+*Cor vermelha do "ao vivo" (Jaqueline);
+*Botão tudo, o que está escrito e o preto em volta (Marcelo);
+*Cores de fundo do menu embaixo da barra de pesquisa (Ana);
+*Cores das letras das palavras (Daniel);
+*Palavra "Inscrições" do menu lateral esquerdo (Murilo);
+*A logo do site (Mariele);
+*O design do ícone do microfone ao lado da barra de pesquisa (Renato);
+*O tipo da fonte (Wagner);
+*Os quadradinhos (elementos de imagens dos painéis de vídeos) de cada vídeo (Maria), Alexksandro sugeriu o nome "capas";
+*Ícone do canal (perfil) do canto superior direito (Samuel);
+*Ícone do sino do lado do perfil (Vinícius);
+*Ícone de partitura ao lado do menu "Música" do lado esquerdo, dentro da seção "Explorar" (Miguel);
+*A palavra "Explorar" do menu lateral esquerdo (Yuri);
+*O nome de cada canal embaixo do título de cada vídeo (Lucas);
+*Cor azul do botão de fazer login (André);
+*A quantidade de visualizações de cada vídeo (Alfredo);
+*Botão de mix, de vários mix de sequência (Rafael);
+*Alinhamento das thumbnails, tanto horizontal quanto vertical (Jefferson);
+*Barra separadora de menus laterais esquerdos (prof);
+*Cor do canal do menu "inscrições" do lado esquerdo, quando estiver em live (Rafael);
+*O selinho de canal verificado ao lado direito do nome do canal em cada vídeo (Alfredo);
+*A palavra "Pesquisar" dentro da barra de pesquisa na parte superior do site (André);
+*O filtro "Jogos Olímpicos", porque está em época de jogos olímpicos (Lucas);
+*Os três pontinhos ao lado direito do título de cada vídeo (Yuri);
+*Filtro "Ao vivo" embaixo da barra de pesquisar (Miguel);
+*Os títulos dos vídeos (Vinícius);
+*Os ícones da barra de menu lateral esquerdo (Samuel);
+*A cor de fundo e o formato dos ícones do tempo de cada vídeo (Maria);
+*Espaçamento entre os ícones no canto superior direito da página (Wagner);
+*Tipo da lupa utilizada na barra de pesquisar (Renato);
+*Espaçamento superior dos títulos das seções do menu lateral esquerdo (Mariele);
+*A setinha ">" que tem no lado da palavra "Você" no menu lateral esquerdo (Murilo);
+*O tipo de alinhamento da escrita à direita embaixo dos vídeos (Daniel);
+*O negrito de algumas palavras, por exemplo: "Explorar" que está dentro do menu lateral esquerdo (Ana);
+*O negrito do título da logo "YouTube" (Marcelo);
+*O ícone do reloginho ao lado esquerdo do menu lateral esquerdo "Histórico" (Jaqueline);
+*Ícone de câmera com o sinal de "+" dentro do símbolo da câmera no canto superior direito (Alexksandro);
+*O mostrador de qualidade "4k" dos vídeos (Jefferson);
+*Os cantos arredondados das imagens dos vídeos (Lucas).
